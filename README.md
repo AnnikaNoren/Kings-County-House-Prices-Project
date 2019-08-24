@@ -4,12 +4,13 @@
 
 ## Introduction
 
-Inlucded in this document are the project guidelines and specifications, and instructions for viewing my project results.
+In this document are the project guidelines and specifications for the module 1 final project, and instructions for 
+viewing my project results.
 
 
 ## The Deliverables
 
-There were four deliverables for this project, as given by the Flatiron instructors:
+There were four deliverables for this project, as set forth by the Flatiron instructors:
 
 1. A well documented **Jupyter Notebook** containing any code written for this project and comments explaining it. 
 2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of  methodology and recommendations for non-technical stakeholders.
